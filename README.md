@@ -1,5 +1,8 @@
 Словарь питона - https://github.com/purlubru/school/wiki
 
+## Домашнее задание на каникулы
+Лежит вот тут - https://docs.google.com/document/d/1zND3woaHuiJCePYlYFhPiL50LHX8Al8EjMyMjbQRkZE/edit?usp=sharing
+
 Узнать, какие домашки у вас не сданы, можно в файле _Несданные домашки.pdf_. Всё, что не сдано, помечено красным.
 
 ВОПРОСЫ К ЭКЗАМЕНУ ПО ЛИНГВИСТИКЕ ЛЕЖАТ В ФАЙЛЕ "Билеты к экзамену 19.12.pdf"
